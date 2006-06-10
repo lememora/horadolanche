@@ -1,0 +1,5 @@
+#define MAIN_INI_ARQ_INI_1 "var/ini/input/1.txt"
+#define MAIN_INI_ARQ_IMG_1 "var/ini/img/1.png"
+#define MAIN_INI_ARQ_IMG_2 "var/ini/img/2.png"
+#define MAIN_INI_ARQ_IMG_3 "var/ini/img/3.png"
+#define MAIN_INI_ARQ_IMG_4 "var/ini/img/4.png"
